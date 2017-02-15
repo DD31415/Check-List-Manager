@@ -1,0 +1,12 @@
+To create a new check list, copy the items below and press CTRL+V in Ckeck List Manager.
+
+Dummy Item 1
+Dummy Item 2
+Dummy Item 3
+Dummy Item 4
+Dummy Item 5
+Dummy Item 6
+Dummy Item 7
+Dummy Item 8
+Dummy Item 9
+Dummy Item 10
